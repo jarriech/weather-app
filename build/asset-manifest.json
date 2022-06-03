@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d5590ae.chunk.css",
+    "main.js": "/static/js/main.06887529.chunk.js",
+    "main.js.map": "/static/js/main.06887529.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.59bea76a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.59bea76a.js.map",
+    "static/js/2.e4ded88f.chunk.js": "/static/js/2.e4ded88f.chunk.js",
+    "static/js/2.e4ded88f.chunk.js.map": "/static/js/2.e4ded88f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0d5590ae.chunk.css.map": "/static/css/main.0d5590ae.chunk.css.map",
+    "static/js/2.e4ded88f.chunk.js.LICENSE.txt": "/static/js/2.e4ded88f.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/static/media/ericadan-koln-sam-almanya-3d9b6ef906f12b772d059391c1383e60.f638d93c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59bea76a.js",
+    "static/js/2.e4ded88f.chunk.js",
+    "static/css/main.0d5590ae.chunk.css",
+    "static/js/main.06887529.chunk.js"
+  ]
+}

@@ -1,0 +1,51 @@
+.searchBar {
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #2c3441;
+  height: 40px;
+  border-radius: 40px;
+  padding: 10px;
+}
+
+.searchBar:hover > input{
+  width: 200px;
+  padding: 0 10px;
+}
+.searchBar:hover > button{
+  background: #536179;
+}
+
+.input {
+  width: 0;
+  border: none;
+  outline: none;
+  padding: 0;
+  background: none;
+  font-size: 1.1rem;
+  font-weight: 300;
+  transition: 0.5s ease;
+  line-height: 40px;
+  color: #fff;
+}
+
+.button {
+  color: #21dfcd;
+  float:right;
+  width: 40px;
+  font-size: 1.3rem;
+  height: 40px;
+  border-radius: 50%;
+  background: #2f3640;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  transition: background-color 0.25s;
+  cursor: pointer;
+  text-decoration: none;
+}
+.button:hover {
+  transform: rotate(360deg) scale(0.8);
+}

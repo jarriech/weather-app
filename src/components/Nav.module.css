@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  position: absolute;
+  top: -2.5rem;
+  left: 2rem;
+}
+.navLink {
+  background-color: rgba(255, 255, 255, 0.589);
+  box-shadow: #094c66 4px 4px 0px;
+  border-radius: 8px;
+  transition: transform 200ms, box-shadow 200ms;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+.navLink:active{
+  transform: translateY(4px) translateX(4px);
+  box-shadow: #094c66 0px 0px 0px;
+}
+.navLink + .navLink {
+  margin-left: 1rem;
+}
